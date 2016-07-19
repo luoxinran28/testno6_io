@@ -1,0 +1,763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line-",
+				"line-height: "
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"down",
+				"download-over	(_bio-view.scss)"
+			],
+			[
+				"linke",
+				"linkedin-over	(_bio-view.scss)"
+			],
+			[
+				"max",
+				"max-height: "
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-image: "
+			],
+			[
+				"padding",
+				"padding-bottom	(overlay.js)"
+			],
+			[
+				"ellip",
+				"ellipsis-text"
+			],
+			[
+				"ov",
+				"overlayNumber"
+			],
+			[
+				"sli",
+				"slider-item"
+			],
+			[
+				"bac",
+				"background: "
+			],
+			[
+				"mar",
+				"margin-right: "
+			],
+			[
+				"marin",
+				"margin-bottom: "
+			],
+			[
+				"min-h",
+				"min-height: "
+			],
+			[
+				"d",
+				"debug"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"ic",
+				"ctaIconPath"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"rend",
+				"renderDisplay()	Node.js"
+			],
+			[
+				"ed",
+				"edit"
+			],
+			[
+				"getEl",
+				"getElementById〔function〕"
+			],
+			[
+				"handl",
+				"handleCheck()	index.html"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 469.0,
+		"last_filter": "package in",
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"package view",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"openre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"pkge in",
+				"Package Control: Install Package"
+			],
+			[
+				"pkge inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pkge",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pkge list",
+				"Package Control: List Packages"
+			],
+			[
+				"pkge lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pkge rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pakcage ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+			"201",
+			"204",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/luox5/Projects/testno6_io"
+	],
+	"file_history":
+	[
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/framework/header/header-script.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/framework/header/_main-nav-cookie-banner.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/framework/header/_main-nav-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/framework/header/_main-nav.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/_widgets/overlay-bio/overlay-bio.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/framework/header/_main-header.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/framework/header/_main-header-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/_settings/_font-mixins-ext.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/_settings/_font.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/multilist-title-text-image/_card-view.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/multilist-title-text-image/_card-view-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/_dt-templates.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/_settings/_cta.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/widgets/_bio-view.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/widgets/_bio-view-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/widgets/_overlay-bio.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/widgets/_overlay-bio-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/css/delltechnologies/dt-components.css",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/_settings/_color-palette.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/_settings/_color.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/css/delltechnologies/dt-base.css",
+		"/C/Users/luox5/Desktop/linkedin-logo.svg",
+		"/C/Users/luox5/Downloads/Icons_Logos/SVG_2016-07-05/icons/icon-download.svg",
+		"/C/Users/luox5/Downloads/Icons_Logos_SVG/icons/icon-download.svg",
+		"/C/Users/luox5/Desktop/linkedin-social-media.svg",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/_settings/_breakpoint.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/speaker-list/_bio-view-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/speaker-list/template_bio-hero.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/speaker-list/_bio-hero-view.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/speaker-list/_bio-hero-view-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/speaker-list/_bio-view.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/_libs/bourbon/bourbon4.2.6/addons/_buttons.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/commons-touch/cta/_cq_dialog/.content.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text-image-multilink/template_dropdown.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/title-text-image-multilink/_dropdown-view-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components-v2/content/title-text-image-multilink/template_dropdown.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multivideo-multilink/template_split-v4.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multivideo-multilink/template_split.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multivideo-multilink/template_dashboard-image.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components-v2/content/title-text-image-multilink/template_hero-v2.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components-v2/content/title-text-image-multilink/template_hero-blade.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/commons-classic/cta.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/commons-touch/cta/.content.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text-image-multilink/template_hero-v2.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/partials/dt-partials.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text-image-multilink/template_hero-blade.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multivideo-multilink/template_simple-promo-v2.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components-v2/content/multilist-title-text-image/template_dashboard-v2.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/cta-list/dialog.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/_settings/_cta.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/framework/header/header-nav.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multiimage/template_gallery.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/_widgets/cookie-banner-existed.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/speaker-list/template_bio.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/cta-list/cta-list.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multilist-title-text-image/template_card.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/profile/template_quote-v2.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multilist-title-text-image/template_dashboard-v2.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multilist-title-text-image/dialog.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/components/speaker-list/_bio-view-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/components/speaker-list/_bio-view.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_widgets/overlay/overlay.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/multivideo-multilink/_dashboard-image-view.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/components/widgets/_overlay-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/components/widgets/_overlay.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/speaker-list/_cq_editConfig.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/speaker-list/dialog.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/cta-list/template_icons-v3.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/dt-loader.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/multiimage/_gallery-view-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/components/multiimage/multiimage.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/widgets/_widgets.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/uw-loader.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/_widgets/overlay-bio/overlay-bio-video.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/widgets/_overlay-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_templates.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_core.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/_widgets/overlay/overlay-video.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/speaker-list/help.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_widgets/overlay/overlay-video.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/img/social-icons-19.PNG",
+		"/C/Users/luox5/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/_widgets/ellipsis/ellipsis.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_widgets/carousel/carousel.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/.sass-cache/7e13fb89cdcdfab4135b25a4bccc40cd1cf8a7f4/_color.scssc",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/base/.content.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/base/js.txt",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/delltechnologies/_settings.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_breakpointhandler.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/clientlibs/js/delltechnologies/.content.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/img/social-icons-18.png",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text/template_copy-v3.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_widgets/childCategoryFilter/child-category-filter.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_widgets/videoPlayer/videoPlayer.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_widgets/accordion/accordion.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text/template_copy-v2.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/multiimage/_gallery-view.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/js/uw/_homepage.js",
+		"/C/Users/luox5/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/C/Users/luox5/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/luox5/AppData/Roaming/Sublime Text 3/Packages/User/Material-Theme.sublime-theme",
+		"/C/Users/luox5/Desktop/campaign-tiles.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/_settings/_grids.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multiimage/dialog.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text-image/dialog.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text-image-multilink/dialog.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multilist-multitext-title-text-image/dialog.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/speaker-list/_speaker-view-output.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/speaker-list/template_speaker.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multiimage/help.html",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/bundle/src/main/java/com/delltechnologies/model/ui/Image.java",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/bundle/src/main/java/com/delltechnologies/model/ui/MultiImage.java",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/bundle/src/main/java/com/delltechnologies/ui/MultiImageWCMUse.java",
+		"/C/Users/luox5/AEM/Author/crx-quickstart/logs/delltechnologies-debug.log",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/speaker-list/_speaker-view.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/dt-components.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/delltechnologies/components/speaker-list/_speaker-list.scss",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/etc/designs/delltechnologies/assets/sass/uw/components/widgets/_widgets.scss",
+		"/C/Users/luox5/Desktop/compain-tiles.js",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text-image/_cq_dialog/.content.xml",
+		"/C/Users/luox5/AppData/Roaming/Sublime Text 3/Packages/User/Material-Theme-Darker.sublime-theme",
+		"/C/Users/luox5/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme-Darker.sublime-theme",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/title-text-image-multilink/_cq_dialog/.content.xml",
+		"/C/Users/luox5/AppData/Roaming/Sublime Text 3/Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+		"/C/Users/luox5/AppData/Roaming/Sublime Text 3/Packages/User/Material-Theme-Copy.sublime-theme",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multivideo-multilink/dialog.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/multivideo-multilink/_cq_dialog/.content.xml",
+		"/C/Users/luox5/uwaem-workspace/delltechnologies/content/src/main/content/jcr_root/apps/delltechnologies/components/content/breadcrumb/_cq_dialog/.content.xml"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 144.0,
+		"where_history":
+		[
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_300\\content\\src\\main\\content\\jcr_root,*.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\,*.html",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\,*.html,*.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\,*.html",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\,*.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\etc\\designs",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\etc\\designs,*.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\etc\\designs",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\etc\\designs\\delltechnologies",
+			"C:\\Users\\luox5\\uwaem-workspace\\delltechnologies\\content\\src\\main\\content\\jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\uw\\components",
+			"<current_file>",
+			"<current_folder>",
+			"current_folder",
+			"current folder",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\apps",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\apps, *.html",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem, *.html",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem, *.css",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem, *.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass, *.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass, *scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass, *cta*.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass\\components\\homepage-hero",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass\\components\\title-text-image-multilink",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass\\components\\multivideo-multilink",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass\\components\\video-brightcove",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass\\base\\base",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem, *.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem *.scss",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\css",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests",
+			"C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass",
+			"<current folder>, *.html,C:\\Users\\luox5\\uwaem-workspace\\uwaem_230\\content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass",
+			"<current folder>, *.html",
+			"<current folder>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cookie-banner",
+			"cookie",
+			"cookie-banner",
+			"octonary",
+			"overflow-bio-active",
+			"twitter",
+			"background-size: $bio-twitter-icon-bg-size;",
+			"$icons",
+			"icons",
+			"icon-list",
+			"$bio-icon-width",
+			"30px",
+			"$bio-social-icons-small-margi",
+			"bio-twitter-icon-bg-size",
+			"large",
+			"medium",
+			"padding-right",
+			"padding",
+			"cta-tertiary",
+			"444",
+			"icn",
+			"overlay",
+			"320",
+			"450",
+			"bio-wrap",
+			"cookie-banner",
+			"selector-trigger",
+			"cta-primary",
+			"ctaVivify",
+			"cta-",
+			"btn-",
+			"cta-",
+			"ctaVivify",
+			"cta-",
+			"ctaVivify",
+			"btn senary btn-senary",
+			"cookie-banner-existed",
+			"show",
+			"height",
+			"_evh-ric",
+			"header-nav",
+			"Dell and its partners use cookies to enhance your experience and customize your content.",
+			":hover",
+			"span",
+			"show",
+			"font-size",
+			"medium",
+			"width: auto",
+			"medium",
+			"absolute",
+			"font",
+			"overflow-bio-active",
+			"overflow-active",
+			"overflow",
+			"overflow-active",
+			"overflow",
+			"overflow-active",
+			"_openOverlay",
+			"_positionOverlay",
+			"padding",
+			"opacity",
+			"overlay-bio-bg",
+			"top",
+			"overlay-bio-content",
+			"bio0",
+			"overlay-bio-content",
+			"OVERLAY",
+			"overlay",
+			"Overlay",
+			"overlay",
+			"OVERLAY",
+			"overlay",
+			"moveToPrevImage",
+			"overlay-wrap",
+			"overlayWrap",
+			"transfo",
+			"transform",
+			"top",
+			"bio",
+			"bio-wrap",
+			"EDEDED",
+			"<span class='icn'>",
+			"bio-",
+			"bio-social",
+			"bio-icons",
+			"bio-icon-margin",
+			"bio-bg",
+			"stroke-width",
+			"icon(",
+			"icon9",
+			"icon-data",
+			"arrow-prev",
+			"positionOverlay",
+			"24px",
+			"after",
+			"20px",
+			"gplus",
+			"8px",
+			"overlay-header",
+			"_positionOverlay",
+			"btn-close",
+			"options",
+			"constrainViewport",
+			"title",
+			"carousel-container",
+			"aside-image",
+			"header",
+			"delltechnologies.assets.js.delltechnologies",
+			"delltechnologies.assets.js.delltechnologies.base",
+			"float",
+			"width",
+			"150px",
+			"width",
+			"bio-social-icons-offset",
+			"heading",
+			"childCategoryFilter",
+			"_addTextsWithDotsToDiv",
+			"css",
+			"self.element",
+			"span",
+			"self.element.text()",
+			"_addEllipsis",
+			"initialWindowWidth",
+			"_on",
+			"controls",
+			"self.element",
+			"create",
+			"_create"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"medium",
+			"cookie-banner",
+			"large",
+			"overlay-bio",
+			"'",
+			"titleTextWCMUse.titleText",
+			"titleTextImageMultiLinkWCMUse.titleTextImage",
+			"titleTextImageWCMUse.titleTextImage",
+			"titleTextImageWCMUse",
+			"multiListTitleTextImage",
+			"two-chips",
+			"CHIPS",
+			"two-chips"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 86.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 152.0
+	},
+	"pinned_build_system": "",
+	"project": "testno6_io.sublime-project",
+	"replace":
+	{
+		"height": 112.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color.scss",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\delltechnologies\\_settings\\_color.scss"
+			],
+			[
+				"breakpoint.sc",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\uw\\_settings\\_breakpoint.scss"
+			],
+			[
+				"button",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\uw\\_libs\\bourbon\\bourbon4.2.6\\addons\\_buttons.scss"
+			],
+			[
+				"break",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\uw\\_settings\\_breakpoint.scss"
+			],
+			[
+				"dash",
+				"jcr_root\\apps\\delltechnologies\\components\\content\\multilist-title-text-image\\template_dashboard-v2.html"
+			],
+			[
+				"quote-v2",
+				"jcr_root\\apps\\delltechnologies\\components\\content\\profile\\template_quote-v2.html"
+			],
+			[
+				"overlay.js",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\js\\uw\\_widgets\\overlay\\overlay.js"
+			],
+			[
+				"multiimage.sc",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\uw\\components\\multiimage\\multiimage.scss"
+			],
+			[
+				"templates.js",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\js\\uw\\_templates.js"
+			],
+			[
+				"template.js",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\js\\delltechnologies\\_dt-templates.js"
+			],
+			[
+				"_overlay.scss",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\uw\\components\\widgets\\_overlay.scss"
+			],
+			[
+				"overlay.sc",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\uw\\components\\widgets\\_overlay.scss"
+			],
+			[
+				"overlay.",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\sass\\uw\\components\\widgets\\_overlay.scss"
+			],
+			[
+				"carousel",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\js\\uw\\_widgets\\carousel\\carousel.js"
+			],
+			[
+				"over",
+				"jcr_root\\etc\\designs\\delltechnologies\\assets\\js\\uw\\_widgets\\overlay\\overlay.js"
+			],
+			[
+				"header",
+				"content\\target\\classes\\apps\\uwaem\\components\\framework\\header\\header\\header.html"
+			],
+			[
+				"header.scss",
+				"content\\src\\main\\content\\jcr_root\\etc\\designs\\uwaem\\manifests\\sass\\_settings\\_header.scss"
+			],
+			[
+				"dropdown",
+				"content\\src\\main\\content\\jcr_root\\apps\\uwaem\\components\\framework\\header\\header\\dropdowns.html"
+			],
+			[
+				"component.css",
+				"uwaem\\manifests\\css\\components-vivify-v2\\components.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 61.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 468.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 448.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
